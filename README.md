@@ -1,7 +1,7 @@
 # sjzt
 
 ## 数据中台
-java启动：
+java入口文件位置：
 larkmidtable-web/larkmt-admin/src/main/java/com/larkmt/cn/admin/Engine.java
 
 配置修改：
